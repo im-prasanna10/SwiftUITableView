@@ -18,7 +18,7 @@ struct ContentView: View {
                     Text(self.itCompanies[index])
                 }
             }
-            .navigationBarTitle("List of IT Companies")
+            .navigationBarTitle("List of 'IT' Companies ")
         }
     }
 }
